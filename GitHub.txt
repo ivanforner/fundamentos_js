@@ -2,6 +2,6 @@ Tutorial para iniciar o Git:
 
 1 - No console digite: git init;
 2 - Adicione o repositório com: git remote add origin "endereço do repositório";
-3 - git add .
-4 - git commit -m "comentário"
-5 - git push origin master
+3 - Adicione os arquivos no pacote: git add .
+4 - Faça um commit: git commit -m "comentário"
+5 - Mande para a origem: git push origin master
